@@ -1,0 +1,237 @@
+[
+    {
+        "path": "2500x4000 shepherd cover.png",
+        "type": "file",
+        "md5": "feaac230b8274f94993a9c8748f09a37"
+    },
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "ff99036eed911d204b4ef0b55350a2db"
+    },
+    {
+        "path": "The Shepherd of the Giant Mountains epub2.epub",
+        "type": "file",
+        "md5": "944bdd9ae3b4154a7f371ceda7844c80"
+    },
+    {
+        "path": "The Shepherd of the Giant Mountains epub3.epub",
+        "type": "file",
+        "md5": "944bdd9ae3b4154a7f371ceda7844c80"
+    },
+    {
+        "path": "The Shepherd of the Giant Mountains.pdf",
+        "type": "file",
+        "md5": "0b4ba7ff55693cf50945974ff3cc57e5"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "121f9229b70ae53481164a337d2b1fae"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "ffcbea6c02c8178d10092962b235a5b0"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "f0c119fe4ab4e9bba79dea32d15e32df"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/idle-tidal-idyll-llc",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/idle-tidal-idyll-llc/index.html",
+        "type": "file",
+        "md5": "9c0aae7f1e4505c52c93cefec450b6ce"
+    },
+    {
+        "path": "idle-tidal-idyll-ebooks",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/idle-tidal-idyll-ebooks/index.html",
+        "type": "file",
+        "md5": "1bb9697fb406ef6634ce87ba45da84a0"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "a4877979269909dc67a41b41643cd866"
+    },
+    {
+        "path": "legal",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/legal/index.html",
+        "type": "file",
+        "md5": "2822c7e3e9e7df4269f364d4d8dcfdfd"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/2500x4000-shepherd-cover-2.png",
+        "type": "file",
+        "md5": "feaac230b8274f94993a9c8748f09a37"
+    },
+    {
+        "path": "/media/posts/1/2500x4000-shepherd-cover-4.png",
+        "type": "file",
+        "md5": "feaac230b8274f94993a9c8748f09a37"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/2500x4000-shepherd-cover-2-2xl.png",
+        "type": "file",
+        "md5": "455ab778ab83e54d374cf4bd04621b50"
+    },
+    {
+        "path": "/media/posts/1/responsive/2500x4000-shepherd-cover-2-lg.png",
+        "type": "file",
+        "md5": "be14c9306a349f27fac20b2ef03b2a17"
+    },
+    {
+        "path": "/media/posts/1/responsive/2500x4000-shepherd-cover-2-md.png",
+        "type": "file",
+        "md5": "bb766184835878dc68f330415f2d9153"
+    },
+    {
+        "path": "/media/posts/1/responsive/2500x4000-shepherd-cover-2-sm.png",
+        "type": "file",
+        "md5": "78fcad98f5420d52b10c44f28da6f647"
+    },
+    {
+        "path": "/media/posts/1/responsive/2500x4000-shepherd-cover-2-xl.png",
+        "type": "file",
+        "md5": "332f74d41068fbc1e8fe2ef652459de0"
+    },
+    {
+        "path": "/media/posts/1/responsive/2500x4000-shepherd-cover-2-xs.png",
+        "type": "file",
+        "md5": "1bb641dcd268ff9d27395a0f4d4b96c1"
+    },
+    {
+        "path": "/media/posts/1/responsive/2500x4000-shepherd-cover-4-2xl.png",
+        "type": "file",
+        "md5": "455ab778ab83e54d374cf4bd04621b50"
+    },
+    {
+        "path": "/media/posts/1/responsive/2500x4000-shepherd-cover-4-lg.png",
+        "type": "file",
+        "md5": "be14c9306a349f27fac20b2ef03b2a17"
+    },
+    {
+        "path": "/media/posts/1/responsive/2500x4000-shepherd-cover-4-md.png",
+        "type": "file",
+        "md5": "bb766184835878dc68f330415f2d9153"
+    },
+    {
+        "path": "/media/posts/1/responsive/2500x4000-shepherd-cover-4-sm.png",
+        "type": "file",
+        "md5": "78fcad98f5420d52b10c44f28da6f647"
+    },
+    {
+        "path": "/media/posts/1/responsive/2500x4000-shepherd-cover-4-xl.png",
+        "type": "file",
+        "md5": "332f74d41068fbc1e8fe2ef652459de0"
+    },
+    {
+        "path": "/media/posts/1/responsive/2500x4000-shepherd-cover-4-xs.png",
+        "type": "file",
+        "md5": "1bb641dcd268ff9d27395a0f4d4b96c1"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "b6216d61c03e6ce0c9aea6ca7808f7ca"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "7499b60ef36e6b5eb43a6f3c29cc8900"
+    }
+]
