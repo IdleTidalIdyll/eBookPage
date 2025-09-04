@@ -1,5 +1,10 @@
 [
     {
+        "path": "2500x4000 guthlac cover.png",
+        "type": "file",
+        "md5": "bac3a761e218ecc2855ddcddb02f26b8"
+    },
+    {
         "path": "2500x4000 shepherd cover.png",
         "type": "file",
         "md5": "feaac230b8274f94993a9c8748f09a37"
@@ -7,7 +12,17 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "07306f4b347d4c8aca0c4cd759f3d440"
+        "md5": "f79fe0d36b1b5fe1a29bf75168b44699"
+    },
+    {
+        "path": "Life of Guthlac.epub",
+        "type": "file",
+        "md5": "1208c366af9145af5086a8c8cdfa1391"
+    },
+    {
+        "path": "Life of Guthlac.pdf",
+        "type": "file",
+        "md5": "8d55c41efe12cf5753e987ea615915a3"
     },
     {
         "path": "The Shepherd of the Giant Mountains epub2.epub",
@@ -102,12 +117,12 @@
     {
         "path": "/authors/idle-tidal-idyll-llc/index.html",
         "type": "file",
-        "md5": "cd56753ad4686373c09299967cd16531"
+        "md5": "34dc4f001d69329376fdca49fd0be07c"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "7cb976098e93060d6416b1952e060e28"
+        "md5": "6442426e755125739b3cf44b1641b12c"
     },
     {
         "path": "legal",
@@ -117,7 +132,7 @@
     {
         "path": "/legal/index.html",
         "type": "file",
-        "md5": "b542e8574b7c1791b4ea446a87bd7d2e"
+        "md5": "42996fb75305ff24d54e7eb74934072b"
     },
     {
         "path": "media",
@@ -135,6 +150,11 @@
         "md5": false
     },
     {
+        "path": "/media/posts/1/2500x4000-guthlac-cover-2.png",
+        "type": "file",
+        "md5": "bac3a761e218ecc2855ddcddb02f26b8"
+    },
+    {
         "path": "/media/posts/1/2500x4000-shepherd-cover-4.png",
         "type": "file",
         "md5": "feaac230b8274f94993a9c8748f09a37"
@@ -143,6 +163,36 @@
         "path": "media/posts/1/responsive",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/2500x4000-guthlac-cover-2-2xl.png",
+        "type": "file",
+        "md5": "8115bc4b18411fab301bdc4a0b1316f0"
+    },
+    {
+        "path": "/media/posts/1/responsive/2500x4000-guthlac-cover-2-lg.png",
+        "type": "file",
+        "md5": "924bb7f509a94b6d790d525316a9598f"
+    },
+    {
+        "path": "/media/posts/1/responsive/2500x4000-guthlac-cover-2-md.png",
+        "type": "file",
+        "md5": "acd58d2c0a65d7e3354871a8764a7298"
+    },
+    {
+        "path": "/media/posts/1/responsive/2500x4000-guthlac-cover-2-sm.png",
+        "type": "file",
+        "md5": "d4618e9c6375b93da89ab42230669ea6"
+    },
+    {
+        "path": "/media/posts/1/responsive/2500x4000-guthlac-cover-2-xl.png",
+        "type": "file",
+        "md5": "0d7606cb927c6433f834b72bb2cc3e20"
+    },
+    {
+        "path": "/media/posts/1/responsive/2500x4000-guthlac-cover-2-xs.png",
+        "type": "file",
+        "md5": "dc30292b81431b9e375dd96c58ad3c3b"
     },
     {
         "path": "/media/posts/1/responsive/2500x4000-shepherd-cover-4-2xl.png",
@@ -187,6 +237,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "976baca1b6df2380957bf1ea0c273032"
+        "md5": "1f31eb184ef4c793e78e94764d51335f"
     }
 ]
